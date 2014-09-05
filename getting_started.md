@@ -10,3 +10,11 @@ http://developer.neurosky.com/docs/doku.php?id=mindwave#installer_for_mac
 Ok so the MindWave (not Mobile) is RF, not Bluetooth. So install all the mono and crap...
 
 Python hacking: https://ep2014.europython.eu/en/schedule/sessions/7/ https://github.com/akloster/python-mindwave
+
+
+```
+$ mkvirtualenv mindwave
+$ mkdir mindwave
+$ cd mindwave
+$ pip install https://github.com/akloster/python-mindwave/archive/master.zip\#egg\=pymindwave
+
