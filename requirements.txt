@@ -1,0 +1,4 @@
+tornado
+numpy
+scipy
+https://github.com/akloster/python-mindwave/archive/master.zip
